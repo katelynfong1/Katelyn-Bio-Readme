@@ -1,3 +1,3 @@
 # Katelyn-Bio-Readme
 
-//Brief intro about me...
+Hello, my name is Katelyn. I’m an organized, diligent rising senior in high school with excellent time management, strong communication, and creativity beyond coding skills. When I participated in my Yale Entrepreneurial Society tech-intensive fellowship, I put my JavaScript, Python, HTML, and Figma skills to use, and created a simple website for my company ProsperPath. ProsperPath made financial literacy accessible to low-income individuals and small businesses owners. Additionally, through my AP Computer Science Principles course and my current tech-intensive fellowship at KKCF, I hope to continue honing my coding and collaboration skills. I will be working on another company, Tigerlily, a wellness tracker with algorithms for to-do, budgeting, fitness, and journaling features. I am truly interested in how technology can streamline companies’ financial processes and hope to enter the tech field as an intern!
